@@ -34,6 +34,27 @@
       "amount": 750,
       "date": "2022-01-07",
       "categoryId": 3
+    },
+    {
+      "date": "2023-02-03",
+      "amount": "1200",
+      "description": "lalalalalalalalalaalalal",
+      "categoryId": "1Equipamentos de TI, assinatura de softwares e cursos",
+      "id": 6
+    },
+    {
+      "date": "2023-02-15",
+      "amount": "20",
+      "description": "asass",
+      "categoryId": "1",
+      "id": 7
+    },
+    {
+      "date": "2023-02-23",
+      "amount": "100",
+      "description": "festas",
+      "categoryId": "2",
+      "id": 8
     }
   ],
   "categories": [
